@@ -206,7 +206,7 @@
     }
 
     .adventages__list {
-        padding: 50px 0px 150px;
+        padding: 50px 0 150px;
     }
 
     .advantages__ico,
@@ -333,7 +333,7 @@
     }
 
     .header__content {
-        padding: 20px 0px;
+        padding: 20px 0;
     }
 
     .burger__lines {
@@ -356,7 +356,7 @@
     }
 
     .nav__item {
-        padding: 10px 0px;
+        padding: 10px 0;
     }
 
     .nav__item:not(:last-child) {
@@ -390,11 +390,11 @@
 
     .card__list {
         display: block;
-        margin: 0px auto;
+        margin: 0 auto;
     }
 
     .card__item:not(:last-child) {
-        margin-right: 0px;
+        margin-right: 0;
         margin-bottom: 180px;
     }
     
@@ -404,7 +404,7 @@
     }
 
     .reference__left {
-        margin-right: 0px;
+        margin-right: 0;
         margin-bottom: 30px;
     }
 
@@ -477,7 +477,7 @@
 
     .adventages__list {
         display: block;
-        padding: 40px 0px 80px;
+        padding: 40px 0 80px;
     }
 
     .advantages__item {
@@ -495,7 +495,7 @@
     }
 
     .product__title {
-        margin-bottom: 0px;
+        margin-bottom: 0;
     }
 
     .card__item {
@@ -554,7 +554,7 @@
 
 @media (max-width: 640px) {    
     .advantages__ico {
-        margin-right: 0px;
+        margin-right: 0;
         margin-bottom: 20px;
     }
 
@@ -626,7 +626,7 @@
 
     .reference__title,
     .caring__title {
-        margin-bottom: 0px;
+        margin-bottom: 0;
     }
 
     .reference__subtitle {
@@ -656,7 +656,7 @@
 
     .footer__bottom {
         font-size: 14px;
-        padding: 40px 0px 40px;
+        padding: 40px 0 40px;
     }
 
     .form__title {
